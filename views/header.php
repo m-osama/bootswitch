@@ -9,8 +9,8 @@
 
 
     <!-- Material Design for Bootstrap -->
-    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="dist/css/bootstrap.css" rel="stylesheet">
+    <link href="themes/css/bootstrap.min.css" rel="stylesheet">
+    <link href="themes/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/font-awesome.min.css">
     <!-- <link href="dist/css/bootswatch.min.css" rel="stylesheet"> -->
     <!-- <link href="dist/css/roboto.min.css" rel="stylesheet"> -->
