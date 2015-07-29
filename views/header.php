@@ -62,6 +62,9 @@
           color: #2196F3;
           background-color: #F9F9F9;
           margin-bottom: 0px;
+          position: absolute;
+          bottom: 0;
+
         }
         .bgcolor1 {
           color: #FCE4EC;
