@@ -1,12 +1,12 @@
 
 <!-- footer -->
     <div>
-      <footer>
+      <footer id="bsfooter">
         <nav class="navbar  colorfooter">
           <div class="container-fluid">
           <div class="col-md-10 col-md-offset-1">
             <div class="navbar-header">
-              <a class="navbar-brand" href="http://mosama.me/amr/index.html">Amr|Osama</a>
+              <a class="navbar-brand" href="#">Brand</a>
             </div>
             <div class="collapse navbar-collapse text3 navbar-right ">
                   <ul class="nav navbar-nav list-inline">
