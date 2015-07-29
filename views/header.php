@@ -11,7 +11,7 @@
     <!-- Material Design for Bootstrap -->
     <link href="themes/css/bootstrap.min.css" rel="stylesheet">
     <link href="themes/css/bootstrap.css" rel="stylesheet">
-    <link rel="stylesheet" href="dist/css/font-awesome.min.css">
+    <link rel="stylesheet" href="themes/css/font-awesome.min.css">
     <!-- <link href="dist/css/bootswatch.min.css" rel="stylesheet"> -->
     <!-- <link href="dist/css/roboto.min.css" rel="stylesheet"> -->
     <!-- <link href="dist/css/material-fullpalette.min.css" rel="stylesheet"> -->
@@ -63,6 +63,11 @@
           background-color: #F9F9F9;
           margin-bottom: 0px;
           bottom: 0;
+          left: 0;
+          position: absolute;
+          margin: 30px 0 0px;
+          right: 0;
+
         }
         .bgcolor1 {
           color: #FCE4EC;

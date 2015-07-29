@@ -6,6 +6,10 @@ switch( $_GET['page'] ) {
 		include 'views/themes.php';
 		
 		break;
+	case 'out':
+			include 'views/out.php';
+			
+			break;	
 	case 'upload':
 		include 'views/update.php';
 		
