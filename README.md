@@ -1,7 +1,7 @@
 Bootswitch
 ==========
 
-Bootswatch is a collection of free themes for [Bootstrap](http://getbootstrap.com/). Check it out at [bootswatch.com](http://bootswatch.com).
+Bootswatch is a collection of free themes for [Bootstrap](http://getbootstrap.com/). Check it out at [bootswitch](http://mosama.me/bootswitch/).
 
 Usage
 -----
