@@ -1,7 +1,7 @@
 Bootswitch
 ==========
 
-Bootswatch is a collection of free themes for [Bootstrap](http://getbootstrap.com/) and google [Material Design](https://www.google.com/design/spec/material-design/introduction.html) . Check it out at [bootswitch](http://mosama.me/bootswitch/).
+Bootswatch is a collection of free themes for [Bootstrap](http://getbootstrap.com/) and google [Material Design](https://www.google.com/design/spec/material-design/introduction.html) concept. Check it out at [bootswitch](http://mosama.me/bootswitch/).
 
 Usage
 -----
