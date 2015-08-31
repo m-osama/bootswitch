@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-lg-12">
               <ul class="list-inline">
-                <li class="pull-right"><a href="#top">Back to top</a></li>
+                <li class="pull-right"><a href="#top"><i class="fa fa-arrow-up"></i> Back to top</a></li>
                 <!-- <li><a href="http://news.bootswatch.com" onclick="pageTracker._link(this.href); return false;">Blog</a></li> -->
                 <li><a href="#">RSS</a></li>
                 <li><a href="https://twitter.com/mosama_">Twitter</a></li>
@@ -15,12 +15,12 @@
 
               <ul class="list-inline" style="margin-bottom : 0px;">
                         <li>Made by <a href="http://mosama.me" rel="nofollow">Mohammed Osama</a>. Contact him at</li>
-                        <li><a href="http://twitter.com/mohammedosama_" class="tip" data-toggle="tooltip" data-placement="bottom" title="twitter"><i class="fa fa-twitter" ></i></a></li>
+                        <li><a href="http://twitter.com/mohammedosama_" class="tip" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Tooltip on bottom"><i class="fa fa-twitter" ></i></a></li>
                         <li><a href="http://plus.google.com/u/0/+MohammedOSamaAhmed" class="tip" data-toggle="tooltip" data-placement="bottom" title="google plus"><i class="fa fa-google-plus"></i></a></li>
                         <li><a href="http://blog.mosama.me" class="tip" data-toggle="tooltip" data-placement="bottom" title="my Blog"><i class="fa fa-wordpress" ></i></a></li>
                         <li><a href="http://be.net/mosama" class="tip" data-toggle="tooltip" data-placement="bottom" title="behance"><i class="fa fa-behance" ></i></a></li>
                         <li><a href="http://github.com/m-osama" class="tip" data-toggle="tooltip" data-placement="bottom" title="github"><i class="fa fa-github" ></i></a></li>
-                        <li><a href="http://mosama.me/cv" class="tip" data-toggle="tooltip" data-placement="bottom" title="my CV"><i class="fa fa-file-text-o" ></i></a></li>
+                        <!-- <li><a href="http://mosama.me/cv" class="tip" data-toggle="tooltip" data-placement="bottom" title="my CV"><i class="fa fa-file-text-o" ></i></a></li> -->
                       </ul>
               
               <p style="margin-bottom : 25px;">Based on <a href="http://getbootstrap.com" rel="nofollow">Bootstrap</a>. Icons from <a href="http://fortawesome.github.io/Font-Awesome/" rel="nofollow">Font Awesome</a>. Web fonts from <a href="http://www.google.com/webfonts" rel="nofollow">Google</a>.</p>
@@ -145,13 +145,24 @@
         });
       });
     </script>
+    <script src="themes/js/bootstrap.js"></script>
+      <script src="themes/js/bootstrap.min.js"></script>
+      <script src="themes/js/tooltip.js"></script>
+      <script src="themes/js/bootswitch.js"></script>
+      <script>$(function() {
+        $('.tip').tooltip()
+      });
+      </script>
+      <!-- if i need a tooltip on click --> <!-- data-trigger="click" -->
+      <script aria-hidden="true" nonce="z2c/KUU1H7aIEDkZL8YYnN1Z/i4">window.boq_progress&&window.boq_progress(); window.jstiming&&window.jstiming.load.tick('bl');</script>
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
     <!-- Dropdown.js -->
     <script src="https://cdn.rawgit.com/FezVrasta/dropdown.js/master/jquery.dropdown.js"></script>
     <script>
       $("#dropdown-menu select").dropdown();
     </script>
-    <!-- if i need a tooltip on click --> <!-- data-trigger="click" -->
-      <script aria-hidden="true" nonce="z2c/KUU1H7aIEDkZL8YYnN1Z/i4">window.boq_progress&&window.boq_progress(); window.jstiming&&window.jstiming.load.tick('bl');</script>
+    
   </body>
 </html>
